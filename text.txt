@@ -1,0 +1,5 @@
+pwd= print working directory
+sudo = super user do 
+mkdir= make directory
+rm= remove a file
+rm -r = remove a directory
